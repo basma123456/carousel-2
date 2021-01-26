@@ -1,0 +1,56 @@
+.bigDiv{
+
+
+width:1000px;
+height:500px;
+
+display:block;
+text-align:center;
+margin:auto;
+
+
+
+
+}
+
+
+#bigImg{
+
+
+    width:1000px;
+    height:500px;
+    
+    display:block;
+    text-align:center;
+    margin:auto;
+    
+    
+    
+    }
+
+
+
+
+#rightArrow{
+
+margin-bottom:100px;
+display:block;
+margin:50px auto;
+}
+
+
+
+
+
+#leftArrow{
+
+margin-top:100px;
+
+display:block;
+
+margin:50px auto;
+
+}
+
+
+
